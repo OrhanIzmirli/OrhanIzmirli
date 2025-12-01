@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Orhan Izmirli
 
-<!--
-**OrhanIzmirli/OrhanIzmirli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web & Mobile Developer  
+Computer Science student based in Warsaw, passionate about building modern, fast, and scalable applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Node.js, Express.js  
+**Mobile:** Flutter  
+**Database:** MongoDB, Firebase  
+**Tools:** Git, GitHub, Postman
+
+---
+
+### Featured Projects
+- **Exchange App** – Currency converter with API integration & payment system  
+- **Book Store App** – Full e-commerce book store with cart & order system  
+- **Fire Safety App** – Real-time fire alert & map-based tracking using NASA API
+
+---
+
+### Contact  
+**LinkedIn:** https://www.linkedin.com/in/orhan-izmirli-689441307  
+---
+Thanks for visiting my profile! 🚀
