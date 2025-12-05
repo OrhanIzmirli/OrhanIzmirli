@@ -24,4 +24,3 @@ Computer Science student based in Warsaw, passionate about building modern, fast
 ### Contact  
 **LinkedIn:** https://www.linkedin.com/in/orhan-izmirli-689441307  
 ---
-Thanks for visiting my profile! 🚀
