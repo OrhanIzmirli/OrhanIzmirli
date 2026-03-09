@@ -18,6 +18,7 @@ Computer Science student based in Warsaw, passionate about building modern, fast
 - **Exchange App** – Currency converter with API integration & payment system  
 - **Book Store App** – Full e-commerce book store with cart & order system  
 - **Fire Safety App** – Real-time fire alert & map-based tracking using NASA API
+- **DisasterWatch** – Event-driven global disaster monitoring platform (React, Node.js, Kafka, Docker, Azure).
 
 ---
 
