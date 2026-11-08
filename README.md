@@ -1,27 +1,25 @@
-# Hi, I'm Orhan Izmirli
+# Orhan Izmirli
 
-### Web & Mobile Developer  
-Computer Science student based in Warsaw, passionate about building modern, fast, and scalable applications.
+### Backend & Mobile Developer
 
----
+Computer Science student based in Warsaw.
 
-### Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React  
-**Backend:** Node.js, Express.js  
-**Mobile:** Flutter  
-**Database:** MongoDB, Firebase  
-**Tools:** Git, GitHub, Postman
+Currently: NASA Space Apps 2026 · TÜBİTAK 2209-A research project
 
----
+### Featured projects
 
-### Featured Projects
-- **Exchange App** – Currency converter with API integration & payment system  
-- **Book Store App** – Full e-commerce book store with cart & order system  
-- **Fire Safety App** – Real-time fire alert & map-based tracking using NASA API
-- **DisasterWatch** – Event-driven global disaster monitoring platform (React, Node.js, Kafka, Docker, Azure).
+- **FireWatch TR**: wildfire tracking app for Turkey, built with Flutter on a TypeScript and PostGIS backend. [Play Store](https://play.google.com/store/apps/details?id=com.oguzh.firewatch.firewatch_tr)
+- **DisasterWatch**: live global disaster map that cross-checks USGS and NASA events against independent sources. [Live demo](https://disasterwatch-frontend.onrender.com) · [API](https://disasterwatch-frontend.onrender.com/api)
+- **Bookstore App**: full-stack bookstore with authentication, an admin panel and Stripe payments. [Code](https://github.com/OrhanIzmirli/fullstack-bookstore-app)
+- **Fire Safety App**: the first prototype of FireWatch. [Code](https://github.com/OrhanIzmirli/fire-safety-app)
 
----
+### Tech
 
-### Contact  
-**LinkedIn:** https://www.linkedin.com/in/orhan-izmirli-689441307  
----
+**Backend:** Node.js, TypeScript, Express, Python  
+**Mobile:** Flutter, Dart  
+**Data:** PostgreSQL/PostGIS, Kafka, Firebase  
+**Tools:** React, Docker, Git
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/orhan-izmirli-689441307)
